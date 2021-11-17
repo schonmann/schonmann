@@ -8,7 +8,7 @@
 * 👨‍💻 Senior Software Engineer [@Hurb.com](https://github.com/hurbcom)
 * 🗣️ JavaScript, Golang, Python, Kotlin, Java, etc
 * ⚖️‍ Development Experience Advocate
-* 🎸 Musical Hobbyist; Jazz, Rock, Pop, Latin, etc
+* 🎸 Music Hobbyist; Jazz, Rock, Pop, Latin, etc
 * 🎮 Age of Empires, Dota/League of Legends, World of Warcraft and some other PvP focused games ⚔️😄
 
 ### Quotable Quotes 📜
