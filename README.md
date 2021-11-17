@@ -13,7 +13,7 @@
 
 ### Quotable Quotes 📜
 
-> _No abstraction is better than wrong abstraction._
+> _No abstraction at all is better than the wrong abstraction._
 
 > _Always leave the campground cleaner than it was before._
 
