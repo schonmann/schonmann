@@ -7,7 +7,8 @@
 * 👨‍🎓 BSc Computer Science [@Universidade do Estado do Rio de Janeiro - UERJ](http://uerj.br)
 * 👨‍💻 Senior Software Engineer [@Hurb.com](https://github.com/hurbcom)
 * 🗣️ JavaScript, Golang, Python, Kotlin, Java, etc
-* 🎸 Musical Hobbyist, Jazz/Rock/Pop/Latin/Whatever
+* ⚖️‍ Development Experience Advocate
+* 🎸 Musical Hobbyist; Jazz, Rock, Pop, Latin, etc
 * 🎮 Age of Empires, Dota/League of Legends, World of Warcraft and some other PvP focused games ⚔️😄
 
 ### Quotable Quotes 📜
@@ -26,7 +27,7 @@
 
 > _One of the most sincere forms of respect is actually listening to what another has to say._
 
-### Utils (🤡)
+### Utils 🤡
 
 
 [<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png" width="150" alt="Spotify: while(coding){...}" />](https://open.spotify.com/playlist/6zf4wYtzwtkZ5WXjQptVjG?si=641a06efadfb4fe1)
