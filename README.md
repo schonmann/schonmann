@@ -4,8 +4,8 @@
 
 ### About Myself 👤
 
-* 👨‍🎓 BSc Computer Science [@Universidade do Estado do Rio de Janeiro - UERJ](http://uerj.br)
-* 👨‍💻 Senior Software Engineer [@Hurb.com](https://github.com/hurbcom)
+* 👨‍🎓 BSc Computer Science at [@Universidade do Estado do Rio de Janeiro - UERJ](http://uerj.br)
+* 👨‍💻 Senior Software Engineer at [@Hurb.com](https://github.com/hurbcom)
 * 🗣️ JavaScript, Golang, Python, Kotlin, Java, etc
 * ⚖️‍ Development Experience Advocate
 * 🎸 Music Hobbyist; Jazz, Rock, Pop, Latin, etc
