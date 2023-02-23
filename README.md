@@ -31,3 +31,7 @@
 
 
 [<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png" width="150" alt="Spotify: while(coding){...}" />](https://open.spotify.com/playlist/6zf4wYtzwtkZ5WXjQptVjG?si=641a06efadfb4fe1)
+
+[<img src="https://d21pahz0q2d74.cloudfront.net/wp-content/uploads/2020/08/soundcloud-logo-png-5.png" width="150" alt="Soundcloud - Antonio Schönmann" />](https://soundcloud.com/antonio-schoenmann)
+
+
