@@ -1,7 +1,5 @@
 ## Greetings, Traveler!
 
-[![Schonmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=schonmann&count_private=true&show_icons=true&theme=tokyonight&hide=prs,contribs,issues,stars)](https://github.com/anuraghazra/github-readme-stats)
-
 ### About Myself 👤
 
 * 👨‍🎓 B.Sc in Computer Science at [@Universidade do Estado do Rio de Janeiro - UERJ](https://www.uerj.br/)
