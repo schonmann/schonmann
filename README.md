@@ -5,9 +5,8 @@
 ### About Myself 👤
 
 * 👨‍🎓 B.Sc in Computer Science at [@Universidade do Estado do Rio de Janeiro - UERJ](https://www.uerj.br/)
-* 👨‍💻 Software Engineer at [@Elastic](https://github.com/elastic)
+* 👨‍💻 Software Engineer @ [Elastic](https://github.com/elastic)
 * 🗣️ JavaScript, Golang, Python, Kotlin, Java, etc
-* ⚖️‍ Development Experience Advocate
 * 🎸 Music Hobbyist; Jazz, Rock, Pop, Latin, etc
 * 🎮 Age of Empires, Dota/League of Legends, World of Warcraft and some other PvP focused games ⚔️😄
 
