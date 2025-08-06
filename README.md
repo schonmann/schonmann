@@ -1,14 +1,12 @@
-## Greetings, Traveler!
+### About
 
-### About Myself 👤
+* 👨‍🎓 B.Sc in Computer Science at @ [Universidade do Estado do Rio de Janeiro - UERJ](https://www.uerj.br/).
+* 👨‍💻 Principal Software Engineer @ [Elastic](https://github.com/elastic).
+* 📜 JavaScript, Golang, Python, Kotlin, Java, etc.
+* 🎸 Music Hobbyist; Jazz, Rock, Pop, Latin, etc.
+* 🎮 Age of Empires, Dota/League of Legends, World of Warcraft and other PvP focused games ⚔️.
 
-* 👨‍🎓 B.Sc in Computer Science at [@Universidade do Estado do Rio de Janeiro - UERJ](https://www.uerj.br/)
-* 👨‍💻 Software Engineer @ [Elastic](https://github.com/elastic)
-* 🗣️ JavaScript, Golang, Python, Kotlin, Java, etc
-* 🎸 Music Hobbyist; Jazz, Rock, Pop, Latin, etc
-* 🎮 Age of Empires, Dota/League of Legends, World of Warcraft and other PvP focused games ⚔️
-
-### Quotable Quotes 📜
+### Quotable Quotes
 
 > _The wrong abstraction is worse than no abstraction at all._
 
